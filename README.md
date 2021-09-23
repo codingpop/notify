@@ -9,7 +9,7 @@ A non-blocking notification Go client library.
 Run:
 
 ```sh
-cd ./notification
+cd ./notify
 ```
 
 And then run:
